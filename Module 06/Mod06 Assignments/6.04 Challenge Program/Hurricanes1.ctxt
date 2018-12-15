@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Hurricanes1
-comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ assign\ the\ names\ of\ five\r\n\ hurricanes\ to\ a\ String\ array\ and\ their\ corresponding\ categories\r\n\ to\ a\ numeric\ array.\ \ The\ program\ prints\ out\ the\ name\ and\ \r\n\ category\ of\ each\ hurricane\ and\ prints\ the\ average\ category.\r\n\ \r\n\ @author\ B.\ Jordan\ \r\n\ @version\ 05/03/07\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2

@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=MeasurementConverterV1
-comment0.text=\r\n\ MeasuermentConverter_v1\ converts\ to\ and\ from\ Metric\ and\ English\r\n\ units\ of\ measure.\r\n\r\n\ \ \ \ \ \ Sample\ Calculation\:\r\n\ \ \ \ \ \ \ \ 1\ mile\ \=\ 5280\ ft,\r\n\ \ \ \ \ \ \ \ therefore\ \ \ \ 6230\ ft\ /\ 5280\ \=\ 1.17992\ miles\r\n\ \ \ \ \ \ \ \ \ \ and\ \ \ \ 1.179\ miles\ *\ 5280\ \=\ 6225.12\ ft\r\n\r\n\ \uFFFDFLVS\ 2007\r\n\ @author\ B.\ Jordan\r\n\ @version\ 01/19/07\r\n\r\n\ Modified\ by\:\ Ian\ Jackson\r\n\ Date\:\ 9/17/2018\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
