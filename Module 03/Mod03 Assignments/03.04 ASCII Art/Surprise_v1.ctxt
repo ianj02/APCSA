@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Surprise_v1
+comment0.text=\r\n\ This\ program\ uses\ String\ objects\ to\ print\ an\ ASCII\ art\ message...APCS\ ROCKS\!\r\n\r\n\ \u00A9FLVS\ 2007\r\n\ @author\ B.\ Jordan\ \r\n\ @version\ 03/05/07\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
